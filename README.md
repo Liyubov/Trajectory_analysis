@@ -49,6 +49,10 @@ The Ramer-Douglas-Peucker algorithm is an algorithm for reducing the number of p
 
 # Problem of general trajectories properties estimation 
 
+## MSD vs TAMSD
+In statistical mechanics, the mean squared displacement (MSD) is a measure of the deviation of the position of a particle with respect to a reference position over time. It is the most common measure of the spatial extent of random motion, and can be thought of as measuring the portion of the system "explored" by the random walker. 
+Another possible alternative to MSD is time-averaged MSD or TAMSD.
+
 ## Hurst exponent 
 In simple words, the Hurst exponent is used as a measure of the long-term memory of a time series. (Adapted from http://analytics-magazine.org/the-hurst-exponent-predictability-of-time-series/) Using the Hurst exponent we can classify time series into types and gain some insight into their dynamics. Here are some types of time series and the Hurst exponents associated with each of them.
 \paragraph{Brownian motion or Wiener process:} In a Brownian time series there is no correlation between the observations and a future observation; a Hurst exponent close to 0.5 is indicative of a Brownian time series. 
