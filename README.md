@@ -18,6 +18,7 @@ We mainly focus here on identifying
 - directed motion (DM), motion with a drift, 
 - anomalous diffusion (AD),
 - confined diffusion (CD).
+
 More specifically one can distinguish the following types of stochastic processes:
 -   the Continuous-Time Random Walk (CTRW);
 -   the Fractional Brownian Motion (FBM);
