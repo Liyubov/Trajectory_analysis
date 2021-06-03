@@ -1,7 +1,8 @@
 # Trajectory analysis
 In this repo we share a method to classify trajectories based on a set of pre-defined features of the trajectory, e.g. Q-meausure, convex Hull, distribution of distance travelled per step. This simple classification algorithm can be applied to characterize ergodic vs. non-ergodic trajectories, or more detailed classifications such as continuous time random walk , levy walk etc. (See a more detailed descriptiom below. While this repo mainly focusses on classification, we have also started working on estimating the the anomolous exponent of the trajectories (this is still under construction) 
 
-This work is inspired by the ANDI challenge 
+This work is inspired by the ANDI challenge which main aim is 
+at bringing together a vibrating and multidisciplinary community of scientists working on this problem. The use of the same reference datasets will allow an unbiased assessment of the performance of published and unpublished methods for characterizing anomalous diffusion from single trajectories.
 https://competitions.codalab.org/competitions/23601#learn_the_details-the-andi-workshop
 
 ## Neural network architecture 
